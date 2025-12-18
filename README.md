@@ -6,9 +6,9 @@ We aim to build an automated essay grading system for ELL students from 8th grad
 
 
 ## Project Structure
-* Presentation/ : Consists of Presentation video and ppt
-* notebooks/: Consists of the classical models and transformer model notebooks
-* streamlit_scripts/: Consists of the scripts for the streamlit webapp
+* Presentation: Consists of Presentation video and ppt
+* notebooks: Consists of the classical models and transformer model notebooks
+* streamlit_scripts: Consists of the scripts for the streamlit webapp
 
 ## Steps to run the streamlit scripts
 * cd to the streamlit_scripts folder and install requirements using ``pip install -r requirements.txt```
